@@ -86,8 +86,6 @@ namespace SystemProgramming_06__WinAPI_
 
     class Program
     {
-
-
         static class UnmanagedCodeCall
         {
             public enum CRED_TYPE
